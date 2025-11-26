@@ -1,4 +1,5 @@
-# Random-Forest-Decision-Tree-AdaBoost-XGBoost-Gradient-Boost-Hospital-Length-of-Stay-LOS-Prediction
+# 🏥 Hospital Length of Stay (LOS) Prediction
+# Machine Learning Project — Healthcare Analytics & Resource Optimization
 This project focuses on predicting hospital length of stay (LOS) using machine learning techniques. By analyzing patient demographics, admission details, medical conditions, and severity levels, the model helps hospitals estimate how long a patient is likely to remain admitted. Accurate LOS prediction supports better bed management, staffing decisions, resource allocation, and operational planning.
 
 📘 Project Overview
